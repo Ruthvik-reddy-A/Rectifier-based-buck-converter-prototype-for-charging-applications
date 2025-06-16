@@ -5,3 +5,9 @@ The importance of using diode rectifier buck converter is:  High Efficiency, Com
 Diode rectifier based buck converter is a type of DC-DC converter that uses a diode rectifier and a buck converter to efficiently step down a higher input voltage to a lower output voltage.
 
 ![image](https://github.com/Ruthvik-reddy-A/Rectifier-based-buck-converter-prototype-for-charging-applications/assets/73007037/d22ce00e-344e-4aca-9117-c4c4031a9009)
+
+---
+PCB Design
+![image](https://github.com/user-attachments/assets/96d0d651-2d8f-47f0-b1af-5a3cbc44ca37)
+
+---
